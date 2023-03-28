@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    padding: 10px 15px ;
+
+}
+.header{
+    background-color: aqua;
+}
+img{
+    width:350px;
+    height:450px;
+    border-radius:20% ;
+    float: left;
+}
+.nom {
+    display: flex;
+    padding-right: 15px;
+    
+}
